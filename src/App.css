@@ -40,3 +40,18 @@
 .read-the-docs {
   color: #888;
 }
+
+table{
+  width: 100%;
+  border: solid 1px;
+  padding: 10px;
+}
+
+
+table th{
+  padding: 1rem;
+}
+
+table img{
+  width: 100px;
+}
